@@ -1,7 +1,7 @@
 package main
 
 import (
-	"test/simplewiki/src/wiki"
+	"github.com/suke777/simplewiki/src/wiki"
 )
 
 func main() {
